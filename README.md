@@ -8,7 +8,7 @@ This project is a simple password generator tool built using HTML, CSS, and Java
 - Customize password complexity by including lowercase letters, uppercase letters, numbers, and special characters.
 - Simple and intuitive user interface.
 
-The user color theme of the user interface has been updated to mimic elements of the Google Chrome browser's Dark Theme. These changes are marked with comments in the CSS file.s
+The user color theme of the user interface has been updated to mimic elements of the Google Chrome browser's Dark Theme. These changes are marked with comments in the CSS file.
 
 ## Usage
 
